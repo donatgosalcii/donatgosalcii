@@ -47,7 +47,7 @@ Linux (daily), Windows
 
 ---
 
-### [Bistro Bliss (Frontend)](https://github.com/donatgosalcii/Bistro-Bliss)
+### [Bistro Bliss (Frontend)](https://github.com/donatgosalcii/BistroBliss)
 > A modern frontend landing page for a restaurant
 
 - ✨ HTML, CSS, and responsive design
@@ -55,7 +55,7 @@ Linux (daily), Windows
 
 ---
 
-### [Simple JAVA Calculator]([https://github.com/donatgosalcii/JAVACALCULATOR])
+### [Simple JAVA Calculator](https://github.com/donatgosalcii/JAVACALCULATOR)
 > Calculator app using JAVA
 
 - ➕ Basic arithmetic functions
