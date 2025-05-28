@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Donat Gosalci
 
-I'm a third-year **Computer Science student** at the University of Prishtina, passionate about **backend development**, clean architecture, and building real-world software. I work mainly with **.NET Core**, **Entity Framework**, and SQL, and I'm currently exploring **Laravel** and **Machine Learning** concepts.
+I'm a third-year **Computer Science student** at the University of Prishtina, passionate about **backend development**, clean coding, and building real-world software. I work mainly with **.NET Core**, **Entity Framework**, and SQL, and I'm currently exploring **Laravel** and **Machine Learning** concepts.
 
 ---
 
