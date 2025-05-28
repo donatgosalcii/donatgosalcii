@@ -55,11 +55,11 @@ Linux (daily), Windows
 
 ---
 
-### [Simple C# Calculator](https://github.com/donatgosalcii/CSharpCalculator)
-> Console-based calculator using C#
+### [Simple JAVA Calculator]([https://github.com/donatgosalcii/JAVACALCULATOR])
+> Calculator app using JAVA
 
 - ➕ Basic arithmetic functions
-- 🧼 Clean and simple CLI structure
+- 🧼 Clean and simple structure
 
 ---
 
