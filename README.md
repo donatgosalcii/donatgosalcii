@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Donat Gosalci
 
-<!--
-**donatgosalcii/donatgosalcii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year **Computer Science student** at the University of Prishtina, passionate about **backend development**, clean architecture, and building real-world software. I work mainly with **.NET Core**, **Entity Framework**, and SQL, and I'm currently exploring **Laravel** and **Machine Learning** concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Third-year CS student | University of Prishtina
+- 💼 Former Backend Intern at [StarLabs](https://github.com/starlabspro-internship/ReviveIt)
+- 🧠 Learning Laravel + ML
+- ⚙️ Strong with: .NET Core, C#, EF Core, SQL, Unit Testing, JWT
+- 🔄 Always looking to improve and build new things
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+C#, .NET Core, EF Core, Java, JS, HTML/CSS, SQL  
+Basic: C++, Python
+
+**Tools & Platforms**  
+Postman, SSMS, MySQL, Azure Data Studio  
+Wireshark, Cisco Packet Tracer  
+Linux (daily), Windows
+
+---
+
+## 📂 Featured Projects
+
+### [ReviveIt](https://github.com/starlabspro-internship/ReviveIt)
+> Internship project at StarLabs
+
+- ✅ Clean Architecture + Code First
+- 🔐 JWT Authentication & Unit Testing
+- 🧪 Built in a Scrum team
+
+---
+
+### [FitnessTracker](https://github.com/donatgosalcii/FitnessTracker)
+> A web app for tracking workouts
+
+- 🔧 Built with .NET Core & Entity Framework
+- 👤 Includes authentication & user profile features
+- 🎨 Dark mode support
+
+---
+
+### [Bistro Bliss (Frontend)](https://github.com/donatgosalcii/Bistro-Bliss)
+> A modern frontend landing page for a restaurant
+
+- ✨ HTML, CSS, and responsive design
+- 📱 Fully mobile-optimized
+
+---
+
+### [Simple C# Calculator](https://github.com/donatgosalcii/CSharpCalculator)
+> Console-based calculator using C#
+
+- ➕ Basic arithmetic functions
+- 🧼 Clean and simple CLI structure
+
+---
+
+## 🔍 Explore More
+You can find more of my work by visiting my full list of [GitHub repositories](https://github.com/donatgosalcii?tab=repositories).
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ [gosalci38@gmail.com](mailto:gosalci38@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/donatgosalci/)  
+- 🗂️ [GitHub](https://github.com/donatgosalcii)
+
