@@ -6,7 +6,7 @@ I'm a third-year **Computer Science student** at the University of Prishtina, pa
 
 ## 🚀 About Me
 
-- 🎓 Third-year CS student | University of Prishtina
+- 🎓 CS student | University of Prishtina
 - 💼 Former Backend Intern at [StarLabs](https://github.com/starlabspro-internship/ReviveIt)
 - 🧠 Learning Laravel + ML
 - ⚙️ Strong with: .NET Core, C#, EF Core, SQL, Unit Testing, JWT
@@ -18,7 +18,7 @@ I'm a third-year **Computer Science student** at the University of Prishtina, pa
 
 **Languages & Frameworks**  
 C#, .NET Core, EF Core, Java, JS, HTML/CSS, SQL  
-Basic: C++, Python
+Basic: C++, Python, PHP, Laravel
 
 **Tools & Platforms**  
 Postman, SSMS, MySQL, Azure Data Studio  
