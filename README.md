@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Donat Gosalci
 
-I'm a third-year **Computer Science student** at the University of Prishtina, passionate about **backend development**, clean coding, and building real-world software. I work mainly with **.NET Core**, **Entity Framework**, SQL, **Laravel**, **Tailwind**, MySql, and I'm currently exploring **Laravel** and **Machine Learning** concepts.
+I'm a third-year **Computer Science student** at the University of Prishtina, passionate about **backend development**, clean coding, and building real-world software. I work mainly with **.NET Core**, **Entity Framework**, **SQL**, **PHP**, **Laravel**, **Tailwind**, **MySql**, and I'm currently exploring **Laravel** and **Machine Learning** concepts.
 
 ---
 
 ## 🚀 About Me
 
-- 👨🏻‍💻 Junior Backend Engineer at [TENTON](http://tenton.co/)
+- 👨🏻‍💻 Junior Backend Engineer at [TENTON](http://tenton.co/) - Present
 - 🎓 CS student | University of Prishtina
 - 💼 Former Backend Intern at [StarLabs](https://github.com/starlabspro-internship/ReviveIt)
 - 🧠 Learning Laravel + ML
@@ -19,7 +19,7 @@ I'm a third-year **Computer Science student** at the University of Prishtina, pa
 
 **Languages & Frameworks**  
 C#, .NET Core, EF Core, Java, JS, HTML/CSS, SQL  
-Basic: C++, Python, PHP, Laravel
+Basic: C++, Python, PHP, Laravel, Tailwind
 
 **Tools & Platforms**  
 Postman, SSMS, MySQL, Azure Data Studio  
