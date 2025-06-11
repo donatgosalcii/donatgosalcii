@@ -6,6 +6,7 @@ I'm a third-year **Computer Science student** at the University of Prishtina, pa
 
 ## 🚀 About Me
 
+- 👨🏻‍💻 Junior Backend Engineer at [TENTON](http://tenton.co/)
 - 🎓 CS student | University of Prishtina
 - 💼 Former Backend Intern at [StarLabs](https://github.com/starlabspro-internship/ReviveIt)
 - 🧠 Learning Laravel + ML
