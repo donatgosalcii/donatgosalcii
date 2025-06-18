@@ -18,9 +18,8 @@ I'm a third-year **Computer Science student** at the University of Prishtina, pa
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-C#, .NET Core, EF Core, Java, JS, HTML/CSS, SQL  
-Basic: C++, Python, PHP, Laravel, Tailwind
-
+PHP, Laravel, Tailwind, Livewire, C#, .NET Core, EF Core, Java, JS, HTML/CSS, SQL  
+Basic: C++, Python
 **Tools & Platforms**  
 Postman, SSMS, MySQL, Azure Data Studio  
 Wireshark, Cisco Packet Tracer  
